@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/6/12 0:16:44。
+     1>项目“E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\3DMaze_test\3DMaze_test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+         GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\Release\3DMaze_test.exe" /INCREMENTAL:NO /NOLOGO opengl32.lib glfw3.lib glew32s.lib SOIL.lib irrKlang.lib freetype.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\Release\3DMaze_test.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\Release\3DMaze_test.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\Astar.obj
+         Release\main.obj
+         Release\MazeDepthFirst.obj
+         Release\MazePrim.obj
+     1>SOIL.lib(SOIL.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+     1>LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+     1>LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+         正在生成代码
+         已完成代码的生成
+     1>glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\Release\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         3DMaze_test.vcxproj -> E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\Release\3DMaze_test.exe
+     1>已完成生成项目“E:\VS2013文件\OpenGL3.3\projects\3DMaze_test\3DMaze_test\3DMaze_test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.60
