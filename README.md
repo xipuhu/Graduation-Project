@@ -15,4 +15,3 @@ A\*寻路算法
 OpenGL、C++、shader等
 
 ### 效果预览
-![](https://hexo-blog-1258021165.cos.ap-guangzhou.myqcloud.com/github_images/Graduation_projrct/01.png)
