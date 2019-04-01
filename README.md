@@ -1,4 +1,4 @@
-# Graduation-Project
+# 3D-Maze
 ### 场景光照
 冯氏光照模型
 
