@@ -15,3 +15,4 @@ A\*寻路算法
 OpenGL、C++、shader等
 
 ### 效果预览
+![](https://github.com/xipuhu/Graduation-Project/blob/master/game_show.png)
